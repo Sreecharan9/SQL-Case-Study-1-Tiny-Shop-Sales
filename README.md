@@ -1,7 +1,7 @@
 # SQL-Challenges
 # Case Study 1: Tiny Shop Sales
 
-*In this SQL Challenge, I'll be analysing the below questions using SQL to provide the insights to the manager
+* In this SQL Challenge, I'll be analysing the below questions using SQL to provide the insights to the manager
 # Questions
 1) Which product has the highest price? Only return a single row.
 2) Which customer has made the most orders?
