@@ -1,4 +1,4 @@
-# SQL-Challenges
+
 # Case Study 1: Tiny Shop Sales
 
 * In this SQL Challenge, I'll be analysing the below questions using SQL to provide the insights to the manager
