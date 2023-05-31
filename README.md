@@ -4,7 +4,7 @@
 * In this SQL Challenge the dataset contains four tables namely Customers, Products, Orders and Order_Items.
   I'll be analysing the below questions using SQL to analyze customer orders and extract valuable insights to make informed decisions for     Tiny Shop Sales.
 
-                ![image](https://github.com/Sreecharan9/SQL-Challenges/assets/118627524/7df5d89b-8e96-432f-aad6-6a0c540164c5)
+  ![image](https://github.com/Sreecharan9/SQL-Challenges/assets/118627524/7df5d89b-8e96-432f-aad6-6a0c540164c5)
 
 # Questions
 1) Which product has the highest price? Only return a single row.
