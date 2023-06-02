@@ -31,7 +31,7 @@ This case study uses PostgreSQL. To successfully answer all the questions one sh
 # Approach :- 
 
 * To Understand the dataset
-* Answering to the above mentioned business questions by analyzing with SQL queries and extract valuable insights to make informed decisions for "Tiny Shop Sales".
+* I will leverage SQL queries to analyze the given business questions and extract meaningful insights in order to facilitate well-informed decision-making for "Tiny Shop Sales."
 
 
 
